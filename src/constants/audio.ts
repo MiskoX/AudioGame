@@ -1,1 +1,0 @@
-export const RECORDING_DURATION_MS = 15000;
