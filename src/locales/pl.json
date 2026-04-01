@@ -1,0 +1,31 @@
+{
+  "controls": {
+    "dark": "Tryb ciemny",
+    "light": "Tryb jasny"
+  },
+  "buttons": {
+    "record": "Nagraj",
+    "stop": "Zatrzymaj",
+    "play": "Odtwórz",
+    "reverse": "Odtwórz odwrotnie"
+  },
+  "timeline": {
+    "progress": "Postęp"
+  },
+  "status": {
+    "idle": "Brak nagrania",
+    "requestMic": "Prośba o dostęp do mikrofonu...",
+    "readyManual": "Nagranie zatrzymane ręcznie i gotowe.",
+    "readyAuto": "Nagranie gotowe (15 sekund).",
+    "recording": "Nagrywanie... 15 sekund",
+    "stopping": "Zatrzymywanie nagrania...",
+    "missingRecording": "Najpierw nagraj dźwięk.",
+    "playNormal": "Odtwarzanie normalne...",
+    "playNormalDone": "Odtwarzanie normalne zakończone.",
+    "playNormalError": "Nie można odtworzyć nagrania.",
+    "playReverse": "Odtwarzanie odwrotnie...",
+    "playReverseDone": "Odtwarzanie odwrotnie zakończone.",
+    "playReverseError": "Nie udało się odtworzyć odwrotnie.",
+    "micError": "Nie udało się uruchomić mikrofonu."
+  }
+}
